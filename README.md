@@ -12,7 +12,7 @@ Colocando em prática um pouco do que aprendi no primeiro curso da formação: P
 | :sparkles: Nome        | **Python para Data Science - 1º curso**
 | :label: Tecnologias | python
 | :rocket: URL         | https://github.com/fab-souza/python-para-data-science/
-| :fire: Desafio     | [Alura](https://www.alura.com.br/curso-online-python-intro)
+| :fire: Desafio     | Conteúdo do curso [Python para Data Science](https://www.alura.com.br/curso-online-python-intro)
 
 ![](https://user-images.githubusercontent.com/67301805/204851480-cbadb41f-9000-4f94-9e75-4ace6f28ea68.jpg#vitrinedev)
 
