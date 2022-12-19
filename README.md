@@ -19,3 +19,8 @@ Colocando em prática um pouco do que aprendi no primeiro curso da formação: P
 Quando fiz esta formação, o primeiro curso retomou alguns conceitos de lógica de programação, aplicados em Python. Por exemplo, criar uma função, como fazer um condicional, uma conversão de tipo de variável, como funcionam as listas e laços de repetição.
 
 A forma que encontrei para apresentar um pouco do que aprendi, foi criar um código que simula um sistema de atendimento. Criei uma função composta por condicionais, com conversão de tipo de variável e que passa o input para letras minúsculas, facilitando a leitura dos condicionais.
+
+---
+<h3>Ferramentas utilizadas:</h3>
+    <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    </p>
